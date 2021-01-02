@@ -34,6 +34,7 @@ void Draw(){
   cout << "   ##    ## ##             ##    ####### ##             ##    ##    ## ####### " << endl;
   cout << "   ##    ## ##             ##    ##   ## ##             ##    ##    ## ##      " << endl;
   cout << "   ##    ##  ######        ##    ##   ##  ######        ##     ######  ####### " << endl;
+  cout << " Author: ViKI-R | Website: https://www.viki-r.github.io " << endl;
   cout << endl;
   cout << " | " << board[0] << " | " << board[1] << " | " << board[2] << " | " << endl;
   cout << " ------------- " << endl;
